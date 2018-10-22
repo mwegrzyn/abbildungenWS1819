@@ -3,9 +3,10 @@
 This is the repository for our data visualization course (https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=140903966)
 
 - Why visualize data, why programming, why Python?  
-    - [General Introduction](notebooks/general_introduction.ipynb)  
-    - [Example Visualization](notebooks/dinosaur_dozen_example.ipynb)   
+    - [General Introduction](notebooks/01_general_introduction.ipynb)  
+    - [Example Visualization](notebooks/01_dinosaur_dozen_example.ipynb)   
 - Introduction to Python  
+    - [First steps with Python](notebooks/02_intro_to_python.ipynb)
 
 ### Running this repository
 
@@ -20,6 +21,14 @@ Then you can create a virtual environment in the folder into which you cloned th
 ```shell
 conda create --name myenv --file requirements.txt
 ```
+
+Then you can start the environment like this
+
+
+```shell
+source activate myenv
+```
+
 
 ### Contact
 
