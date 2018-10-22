@@ -2,9 +2,9 @@
 
 This is the repository for our data visualization course (https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=140903966)
 
-- Why visualize data, why programming, why Python?
- - [General Introduction](notebooks/general_introduction.ipynb)
- - [Example Visualization](notebooks/dinosaur_dozen_example.ipynb) 
+- Why visualize data, why programming, why Python?  
+    - [General Introduction](notebooks/general_introduction.ipynb)  
+    - [Example Visualization](notebooks/dinosaur_dozen_example.ipynb)   
 - Introduction to Python  
 
 ### Running this repository
