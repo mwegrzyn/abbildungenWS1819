@@ -19,16 +19,32 @@ https://conda.io/miniconda.html
 Then you can create a virtual environment in the folder into which you cloned this repository
 
 ```shell
-conda create --name myenv --file requirements.txt
+conda create --name abbildungen --file requirements.txt
 ```
+
+if this does not work, try installing the modules by hand, like this
+
+
+```shell
+conda create --name abbildungen -c conda-forge numpy scipy matplotlib seaborn scikit-learn pandas nilearn jupyter jupyterlab statsmodels jupyter_contrib_nbextensions jupyter_nbextensions_configurator rise -c r r-essentials
+
+```
+
 
 Then you can start the environment like this
 
 
 ```shell
 source activate myenv
+jupyter notebook
 ```
 
+or, under Windows, start 'anaconda prompt' and try
+
+```shell
+conda activate myenv
+jupyter notebook
+```
 
 ### Contact
 
