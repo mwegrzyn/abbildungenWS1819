@@ -6,7 +6,9 @@ This is the repository for our data visualization course (https://ekvv.uni-biele
     - [General Introduction](notebooks/01_general_introduction.ipynb)  
     - [Example Visualization](notebooks/01_dinosaur_dozen_example.ipynb)   
 - Introduction to Python  
-    - [First steps with Python](notebooks/02_intro_to_python.ipynb)
+    - [First steps with Python](notebooks/02_intro_to_python.ipynb)  
+- Introduction to Pandas and
+    - [First steps with Pandas and Matplotlib](notebooks/03_intro_to_pandas.ipynb)  
 
 ### Running this repository
 
@@ -35,14 +37,14 @@ Then you can start the environment like this
 
 
 ```shell
-source activate myenv
+source activate abbildungen
 jupyter notebook
 ```
 
 or, under Windows, start 'anaconda prompt' and try
 
 ```shell
-conda activate myenv
+conda activate abbildungen
 jupyter notebook
 ```
 
