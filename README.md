@@ -9,6 +9,8 @@ This is the repository for our data visualization course (https://ekvv.uni-biele
     - [First steps with Python](notebooks/02_intro_to_python.ipynb)  
 - Introduction to Pandas and
     - [First steps with Pandas and Matplotlib](notebooks/03_intro_to_pandas.ipynb)  
+- Using 'for' Loops and Plotting with Matplotlib and Seaborn
+    - [First plot](notebooks/04_annotated_scatterplot.ipynb)
 
 ### Running this repository
 
