@@ -11,6 +11,9 @@ This is the repository for our data visualization course (https://ekvv.uni-biele
     - [First steps with Pandas and Matplotlib](notebooks/03_intro_to_pandas.ipynb)  
 - Using 'for' Loops and Plotting with Matplotlib and Seaborn
     - [First plot](notebooks/04_annotated_scatterplot.ipynb)
+- Visualizing data for exploration and communication
+    - [Examples](notebooks/05_exploring_and_communicating.ipynb)  
+
 
 ### Running this repository
 
