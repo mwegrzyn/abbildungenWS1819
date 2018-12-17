@@ -16,7 +16,8 @@ This is the repository for our data visualization course (https://ekvv.uni-biele
 
 - Projects:
     - [Perception of being old](notebooks/age_project_example.ipynb)
-
+    - [Number of births on certain holidays](notebooks/birthDates_project.ipynb)
+  
 ### Running this repository
 
 Data analysis is performed with Python 3 using mainly numpy, scipy, pandas, scikit-learn, matplotlib, seaborn and jupyter.
