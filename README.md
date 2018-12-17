@@ -71,6 +71,7 @@ A list of recommended courses to learn Python and data analysis/visualisation
     - Bang Wong, Martin Krzywinski, et al. [Points of View](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 
 - Working with notebooks
+    - Peter Bull & Isaac Slavitt [Data Science is Software | SciPy 2016 Tutorial](https://youtu.be/EKUy0TSLg04)
     - Perez, F., & Granger, B. E. (2015). [Project Jupyter: Computational narratives as the engine of collaborative data science](http://archive.ipython.org/JupyterGrantNarrative-2015.pdf)
     - Rule, A., Tabard, A., & Hollan, J. D. (2018). [Exploration and Explanation in Computational Notebooks](https://hal.archives-ouvertes.fr/hal-01676633/file/chi_2018_computational_notebooks_v32_hal.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 32).
 
