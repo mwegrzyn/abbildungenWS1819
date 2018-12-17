@@ -57,18 +57,22 @@ jupyter notebook
 
 ### Ressources
 
-A list of recommended courses to learn Python and data analysis/visualisation
+A list of recommended courses to learn Python and data analysis/visualisation  
 
-General Introduction to programming with Python
-- Dave Evans, [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
+- General Introduction to programming with Python:
+    - Dave Evans, [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 
-Data analysis with Python
-- Tal Yarkoni, [NeuroHackademy 2018: Introduction to Python](https://youtu.be/d1QZU-ZPOm0)
-- Tal Yarkoni, [NeuroHackademy 2018: Data manipulation in Python and Pandas](https://youtu.be/dHBPbBNsKKk)
-- Christopher Fonnesbeck, [Statistical Data Analysis in Python](https://youtu.be/DXPwSiRTxYY)
+- Data analysis with Python
+    - Tal Yarkoni, [NeuroHackademy 2018: Introduction to Python](https://youtu.be/d1QZU-ZPOm0)
+    - Tal Yarkoni, [NeuroHackademy 2018: Data manipulation in Python and Pandas](https://youtu.be/dHBPbBNsKKk)
+    - Christopher Fonnesbeck, [Statistical Data Analysis in Python](https://youtu.be/DXPwSiRTxYY)
 
-Theory of data visualisation
-- Krzywinski, Wong, et al. [Points of View](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+- Theory of data visualisation
+    - Bang Wong, Martin Krzywinski, et al. [Points of View](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+
+- Working with notebooks
+    - Perez, F., & Granger, B. E. (2015). [Project Jupyter: Computational narratives as the engine of collaborative data science](http://archive.ipython.org/JupyterGrantNarrative-2015.pdf)
+    - Rule, A., Tabard, A., & Hollan, J. D. (2018). [Exploration and Explanation in Computational Notebooks](https://hal.archives-ouvertes.fr/hal-01676633/file/chi_2018_computational_notebooks_v32_hal.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 32).
 
 ### Contact
 
