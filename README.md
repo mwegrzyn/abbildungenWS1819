@@ -14,6 +14,8 @@ This is the repository for our data visualization course (https://ekvv.uni-biele
 - Visualizing data for exploration and communication
     - [Examples](notebooks/05_exploring_and_communicating.ipynb)  
 
+- Projects:
+    - [Perception of being old](notebooks/age_project_example.ipynb)
 
 ### Running this repository
 
@@ -52,6 +54,21 @@ or, under Windows, start 'anaconda prompt' and try
 conda activate abbildungen
 jupyter notebook
 ```
+
+### Ressources
+
+A list of recommended courses to learn Python and data analysis/visualisation
+
+General Introduction to programming with Python
+- Dave Evans, [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
+
+Data analysis with Python
+- Tal Yarkoni, [NeuroHackademy 2018: Introduction to Python](https://youtu.be/d1QZU-ZPOm0)
+- Tal Yarkoni, [NeuroHackademy 2018: Data manipulation in Python and Pandas](https://youtu.be/dHBPbBNsKKk)
+- Christopher Fonnesbeck, [Statistical Data Analysis in Python](https://youtu.be/DXPwSiRTxYY)
+
+Theory of data visualisation
+- Krzywinski, Wong, et al. [Points of View](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 
 ### Contact
 
