@@ -61,9 +61,9 @@ A list of recommended courses to learn Python and data analysis/visualisation
 
 - General Introduction to programming with Python:
     - Dave Evans, [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
+    - Tal Yarkoni, [NeuroHackademy 2018: Introduction to Python](https://youtu.be/d1QZU-ZPOm0)
 
 - Data analysis with Python
-    - Tal Yarkoni, [NeuroHackademy 2018: Introduction to Python](https://youtu.be/d1QZU-ZPOm0)
     - Tal Yarkoni, [NeuroHackademy 2018: Data manipulation in Python and Pandas](https://youtu.be/dHBPbBNsKKk)
     - Christopher Fonnesbeck, [Statistical Data Analysis in Python](https://youtu.be/DXPwSiRTxYY)
 
